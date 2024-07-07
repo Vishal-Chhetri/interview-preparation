@@ -1,8 +1,2 @@
-# core-java
-
->>> string
-
->>> array
-
->>> oops
+# String
     
